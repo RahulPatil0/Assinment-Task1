@@ -33,7 +33,7 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("🔢 Welcome to MyCalculator!");
+        System.out.println(" Welcome to MyCalculator!");
         System.out.print("Enter first number: ");
         int num1 = input.nextInt();
 
